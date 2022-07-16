@@ -1,8 +1,7 @@
 numpy
 pandas
 seaborn
-sklearn.linear_model
-LinearRegression
+sklearn
 plotly.graph_objects
 plotly._subplots
 make_subplots
