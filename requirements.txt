@@ -1,0 +1,15 @@
+numpy
+pandas
+seaborn
+sklearn.linear_model
+LinearRegression
+plotly.graph_objects
+plotly._subplots
+make_subplots
+dash
+dash_html_components
+dash_core_components
+dash.dependencies
+Input, Output, State
+dash_table
+gunicorn
