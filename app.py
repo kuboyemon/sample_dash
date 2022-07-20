@@ -51,6 +51,7 @@ from dash import dash_table
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+#Procfile　通常は必要ないがherokuにデプロイする際は必ず追記
 server = app.server
 
 app.layout=html.Div([
