@@ -73,7 +73,7 @@ app.layout=html.Div([
         id='graph',
         figure=tip_plots,
         #CSSによるスタイル記載可能
-        style={'width':'20%'}
+        style={}
     ),
     html.H2('最後に予測用のデータをインプットしてみましょう'),
     dcc.Input(
